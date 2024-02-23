@@ -5,9 +5,6 @@ Eu Sou O Leandro Siqueira,Sou Um Programador Front End,Atualmente Estou Estudand
 Estudante Do DEVCLUB
 <br>
 <br>
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-<br>
-<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
 <br>
